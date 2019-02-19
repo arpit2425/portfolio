@@ -1,0 +1,16 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o distn/css/ --recursive"
+  },
+  "author": "Arpit Trivedi",
+  "license": "ISC",
+  "dependencies": {
+    "no": "0.0.1",
+    "node-sass": "^4.11.0",
+    "sass": "^1.17.0"
+  }
+}
