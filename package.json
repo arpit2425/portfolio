@@ -6,7 +6,7 @@
   "homepage": "https://arpit2425.github.io/portfolio",
   "scripts": {
     "sass": "node-sass -w scss/ -o distn/css/ --recursive",
-    "deploy":"gh-pages -d distn"
+    "deploy": "gh-pages -d distn"
   },
   "author": "Arpit Trivedi",
   "license": "ISC",
